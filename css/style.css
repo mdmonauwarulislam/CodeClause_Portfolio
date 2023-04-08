@@ -300,7 +300,7 @@ body {
 .rotate-img { display: none; }
 
 .hero {
-  background-image: url("/images/bgt.jpg");
+  background-image: url("../images/bgt.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
